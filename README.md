@@ -1,4 +1,4 @@
-### Hi!I'm Jean. I'm a Backend Engineer.
+### Hi! I'm Jean. I'm a Backend Engineer.
 <!--
 **ppontetraje/ppontetraje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
