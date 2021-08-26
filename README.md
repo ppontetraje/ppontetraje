@@ -7,5 +7,6 @@
 - 🌱 I’m currently learning FrontEnd technologies like Blazor and Angular.
 - 🎵 I like to listen music and also play clarinet.
 - 📫 You can reach me on [Mail](mailto:jpalominoq@unsa.edu.pe) and [LinkedIn](https://www.linkedin.com/in/jean-piert-palomino-quispe-19262784/).
+- :earth_americas: This is my [Portfolio](ppontetraje.github.io/portfolio/).
 
 
