@@ -6,6 +6,6 @@
 - 🛠️ My preferred Programming Languages and Technologies: Java, C# and .Net Core,   
 - 🌱 I’m currently learning Angular FrontEnd technology.
 - 🎵 I like to listen music and also play clarinet.
-- 📫 You can reach me on [Mail](mailto:jpalominoq@unsa.edu.pe) and [LinkedIn](https://www.linkedin.com/in/jean-piert-palomino-quispe-19262784/).
+- 📫 You can reach me on [Mail](mailto:piertfb94@gmail.com) and [LinkedIn](https://www.linkedin.com/in/jean-piert-palomino-quispe-19262784/).
 
 
